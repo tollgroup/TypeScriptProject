@@ -1,0 +1,27 @@
+{
+  "name": "typescript_module",
+  "version": "1.0.0",
+  "description": "fist TypeScript project learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tollgroup/TypeScriptProject.git"
+  },
+  "author": "zhongqz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tollgroup/TypeScriptProject/issues"
+  },
+  "homepage": "https://github.com/tollgroup/TypeScriptProject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
